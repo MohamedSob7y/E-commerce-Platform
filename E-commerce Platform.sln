@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36221.1 d17.14
+VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-commerce PlatformDAL", "E-commerce PlatformDAL\E-commerce PlatformDAL.csproj", "{8CB8E931-2101-489B-BE51-8A79F44D02E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-commerce PlatformBLL", "E-commerce PlatformBLL\E-commerce PlatformBLL.csproj", "{FD1B8EC5-EE68-4A03-B50E-224D1479AC22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-commerce PlatformPLL", "E-commerce PlatformPLL\E-commerce PlatformPLL.csproj", "{C0BD382B-1D5A-4BF3-B572-4FD5A9720737}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-commerce PlatformPL", "E-commerce PlatformPLL\E-commerce PlatformPL.csproj", "{C0BD382B-1D5A-4BF3-B572-4FD5A9720737}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
